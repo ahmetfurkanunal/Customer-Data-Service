@@ -1,0 +1,13 @@
+C:\Users\ahmet\source\repos\Customer Data Service\Customer Data Service\bin\Debug\Customer Data Service.exe.config
+C:\Users\ahmet\source\repos\Customer Data Service\Customer Data Service\bin\Debug\Customer Data Service.exe
+C:\Users\ahmet\source\repos\Customer Data Service\Customer Data Service\bin\Debug\Customer Data Service.pdb
+C:\Users\ahmet\source\repos\Customer Data Service\Customer Data Service\obj\Debug\Customer Data Service.csproj.AssemblyReference.cache
+C:\Users\ahmet\source\repos\Customer Data Service\Customer Data Service\obj\Debug\Customer Data Service.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmet\source\repos\Customer Data Service\Customer Data Service\obj\Debug\Customer_Data_Service.Properties.Resources.resources
+C:\Users\ahmet\source\repos\Customer Data Service\Customer Data Service\obj\Debug\Customer Data Service.csproj.GenerateResource.cache
+C:\Users\ahmet\source\repos\Customer Data Service\Customer Data Service\obj\Debug\Customer Data Service.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\Customer Data Service\Customer Data Service\obj\Debug\Customer Data Service.exe
+C:\Users\ahmet\source\repos\Customer Data Service\Customer Data Service\obj\Debug\Customer Data Service.pdb
+C:\Users\ahmet\source\repos\Customer Data Service\Customer Data Service\obj\Debug\Customer_Data_Service.SqlVeriKayıtFrm.resources
+C:\Users\ahmet\source\repos\Customer Data Service\Customer Data Service\obj\Debug\Customer_Data_Service.KategorilerFrm.resources
+C:\Users\ahmet\source\repos\Customer Data Service\Customer Data Service\obj\Debug\Customer_Data_Service.MusteriFrm.resources
